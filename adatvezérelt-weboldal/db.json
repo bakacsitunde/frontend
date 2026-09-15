@@ -1,0 +1,70 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Fekete Kerékpár",
+      "brand": "Kellys",
+      "category": "Sport",
+      "gender": "Férfi",
+      "description": "Kényelmes, sokoldalú kerékpár mindennapi sporthoz.",
+      "price": 319900,
+      "oldPrice": 359900,
+      "image": "/kepek/images.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fekete Kerékpár",
+      "brand": "Kellys",
+      "category": "Mountain Bike",
+      "gender": "Unisex",
+      "description": "Kiemelkedő teljesítmény és tartósság a hegyi túrákhoz.",
+      "price": 449900,
+      "oldPrice": 499900,
+      "image": "/kepek/images (1).jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fekete Kerékpár",
+      "brand": "Hoka",
+      "category": "Országúti",
+      "gender": "Unisex",
+      "description": "Könnyű és kényelmes modell mindennapi használatra.",
+      "price": 109900,
+      "oldPrice": null,
+      "image": "/kepek/images (2).jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fekete Kerékpár",
+      "brand": "Asics",
+      "category": "Stabil kerékpár",
+      "gender": "Unisex",
+      "description": "Stabilitást és kényelmet biztosító modell rendszeres használatra.",
+      "price": 80000,
+      "oldPrice": 100000,
+      "image": "/kepek/images (3).jpg"
+    },
+    {
+      "id": 5,
+      "name": "Piros Kerékpár",
+      "brand": "Kellys",
+      "category": "Városi",
+      "gender": "Női",
+      "description": "Kiegyensúlyozott, kényelmes modell mindennapi kilométerekhez.",
+      "price": 199900,
+      "oldPrice": null,
+      "image": "/kepek/images (4).jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fekete Kerékpár",
+      "brand": "Saucony",
+      "category": "Sport",
+      "gender": "Unisex",
+      "description": "Puha és kényelmes kerékpár hosszabb útvonalakhoz.",
+      "price": 90990,
+      "oldPrice": 100990,
+      "image": "/kepek/images (5).jpg"
+    }
+  ]
+}
