@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Az alkimista",
+      "author": "Paulo Coelho",
+      "description": "Egy fiatal pásztor története, aki az álmait követve utazik a világban."
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "Egy disztópikus regény, amely a totalitárius államok veszélyeire figyelmeztet."
+    }
+  ]
+}
+  
